@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "764175558518",
+    "project_id": "visit-ciletuh",
+    "storage_bucket": "visit-ciletuh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764175558518:android:9ed8532bed09fbe86dfc57",
+        "android_client_info": {
+          "package_name": "com.faisal.visitciletuh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764175558518-4icsc524o2bnshvjtmf4aqd05vjtlvcj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjpTDEdKXzHZopv3bueaNVHEFsCXqNJ-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764175558518-4icsc524o2bnshvjtmf4aqd05vjtlvcj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
